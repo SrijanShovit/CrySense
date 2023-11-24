@@ -1,4 +1,4 @@
-# CrySense: Decoding the Language of Baby Cries
+# CrySense: Decoding the Language of Baby Cries👶
 
 [![GitHub contributors](https://img.shields.io/github/contributors/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/issues)
