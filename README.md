@@ -32,6 +32,34 @@ The challenge lies in accurately interpreting the unique nuances of a baby's cry
 
 - **Build a Supportive Community:** Join a community of developers, parents, and enthusiasts passionate about leveraging technology for the well-being of families.
 
+## 📑 Dataset
+
+The initial dataset being considered for the project has been taken from https://www.kaggle.com/datasets/aniruth100/baby-cry-detection.
+
+In case we find some other suitable dataset, we can switch to that.
+
 ## 🚀 Get Started
 
-Ready to embark on this exciting journey? Head over to the [Contributing Guidelines](CONTRIBUTING.md) to learn how you can contribute to CrySense. Together, let's make decoding baby cries a fun and rewarding experience!
+1. **Fork the Respository**
+   
+2. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/your-username/CrySense.git
+
+2. **Open on your local machine:**
+   ```sh
+   cd CrySense
+
+3. **Start exploring the dataset:**
+   ```sh
+   cd dataset1
+
+4. **Make your contributions under the guidance of the mentor**
+
+5. **Push your contributions:**
+   ```sh
+   git push
+
+6. **Raise a PR**
+
+Voila!!🤓 Wait for the mentor feedback!!🕛 Keep contributing!!
