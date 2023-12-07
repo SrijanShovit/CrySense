@@ -1,5 +1,5 @@
 # CrySense: Decoding the Language of Baby Cries👶
-[![Contributors](https://img.shields.io/github/contributors/)](https://github.com/SrijanShovit/CrySense/graphs/contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 [![GitHub contributors](https://img.shields.io/github/contributors/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/issues)
 [![GitHub stars](https://img.shields.io/github/stars/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/stargazers)
