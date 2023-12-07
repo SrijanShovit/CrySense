@@ -64,7 +64,7 @@ In case we find some other suitable dataset, we can switch to that.
 
 Voila!!🤓 Wait for the mentor feedback!!🕛 Keep contributing!!
 
-## Our Contributors:
+## Kudos to our Contributors!
 
 <a href="https://github.com/SrijanShovit/CrySense/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SrijanShovit/CrySense" />
