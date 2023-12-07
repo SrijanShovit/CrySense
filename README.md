@@ -67,3 +67,12 @@ In case we find some other suitable dataset, we can switch to that.
 6. **Raise a PR**
 
 Voila!!🤓 Wait for the mentor feedback!!🕛 Keep contributing!!
+
+
+<a href="https://github.com/SrijanShovit">
+  <img src="https://avatars.githubusercontent.com/u/86592220?v=4" width="50" height="50" style="border-radius: 50%;">
+</a>
+<a href="https://github.com/zeta-bot">
+  <img src="https://avatars.githubusercontent.com/u/97423149?v=4" width="50" height="50" style="border-radius: 50%;">
+</a>
+
