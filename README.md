@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/issues)
 [![GitHub stars](https://img.shields.io/github/stars/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/stargazers)
 
-[<img src="https://avatars.githubusercontent.com/u/86592220?v=4" width="50" height="50" class="rounded">](https://github.com/SrijanShovit)
+[<img src="https://avatars.githubusercontent.com/u/86592220?v=4" width="50" height="50" class="rounded" alt="Srijan Shovit">](https://github.com/SrijanShovit)
 [<img src="https://avatars.githubusercontent.com/u/97423149?v=4" width="50" height="50" class="rounded">](https://github.com/zeta-bot)
 
 
