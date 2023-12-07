@@ -4,10 +4,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/issues)
 [![GitHub stars](https://img.shields.io/github/stars/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/stargazers)
 
-[<img src="https://avatars.githubusercontent.com/u/86592220?v=4" width="50" height="50" class="rounded" alt="Srijan Shovit">](https://github.com/SrijanShovit)
-[<img src="https://avatars.githubusercontent.com/u/97423149?v=4" width="50" height="50" class="rounded">](https://github.com/zeta-bot)
-
-
 ## 🍼 Introduction
 
 Welcome to CrySense, an innovative project designed to empower parents by decoding the language of baby cries. The nuances in a baby's cry can signal various needs such as hunger, discomfort, or the need for a soothing burp. Understanding these cues, especially for new parents, can be both thrilling and perplexing.
@@ -68,11 +64,9 @@ In case we find some other suitable dataset, we can switch to that.
 
 Voila!!🤓 Wait for the mentor feedback!!🕛 Keep contributing!!
 
+## Our Contributors:
 
-<a href="https://github.com/SrijanShovit">
-  <img src="https://avatars.githubusercontent.com/u/86592220?v=4" width="50" height="50" style="border-radius: 50%;">
-</a>
-<a href="https://github.com/zeta-bot">
-  <img src="https://avatars.githubusercontent.com/u/97423149?v=4" width="50" height="50" style="border-radius: 50%;">
+<a href="https://github.com/SrijanShovit/CrySense/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SrijanShovit/CrySense" />
 </a>
 
