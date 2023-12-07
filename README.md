@@ -4,8 +4,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/issues)
 [![GitHub stars](https://img.shields.io/github/stars/SrijanShovit/CrySense.svg)](https://github.com/SrijanShovit/CrySense/stargazers)
 
-[![SrijanShovit](https://avatars.githubusercontent.com/u/86592220?v=4)](https://github.com/SrijanShovit)
-[![Zeta-bot](https://avatars.githubusercontent.com/u/97423149?v=4)](https://github.com/zeta-bot)
+[![SrijanShovit](https://avatars.githubusercontent.com/u/86592220?v=4 width="50" height="50">)](https://github.com/SrijanShovit)
+[![Zeta-bot](https://avatars.githubusercontent.com/u/97423149?v=4 width="50" height="50">)](https://github.com/zeta-bot)
 
 ## 🍼 Introduction
 
