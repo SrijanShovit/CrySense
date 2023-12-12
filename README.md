@@ -63,3 +63,11 @@ In case we find some other suitable dataset, we can switch to that.
 6. **Raise a PR**
 
 Voila!!🤓 Wait for the mentor feedback!!🕛 Keep contributing!!
+
+## Kudos to our Contributors!
+
+<a href="https://github.com/SrijanShovit/CrySense/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SrijanShovit/CrySense" />
+</a>
+
+Shoutout to Contrib rocks for the above contributor's badge!
