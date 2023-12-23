@@ -38,6 +38,33 @@ The initial dataset being considered for the project has been taken from https:/
 
 In case we find some other suitable dataset, we can switch to that.
 
+# Additional potential datasets:-
+
+one: https://data.mendeley.com/datasets/hbppd883sd/1
+
+two: https://m.datatang.ai/dataset/998
+
+------------------------------------------------------------
+
+***"less" helpful links***
+
+three: https://paperswithcode.com/dataset/dcase-2017 (has baby cries mixed with glass breaking and gunshots)
+
+four: https://zenodo.org/records/401395 (similar to 'three')
+
+five: https://zenodo.org/records/5003214 (a study based on baby cries, the link isn't directly pointing to the dataset)
+
+------------------------------------------------------------
+
+dataset searching websites
+
+https://zenodo.org/
+
+https://datasetsearch.research.google.com/
+
+https://appen.co.jp/off-the-shelf-datasets/ (paid)
+
+
 ## 🚀 Get Started
 
 1. **Fork the Respository**
