@@ -45,4 +45,4 @@ python load_model.py --weights path/to/weights.h5 --audio path/to/test_audio.wav
 Replace path/to/weights.h5 with the path to the saved model weights and path/to/test_audio.wav with the path to the audio file you want to classify.
 
 # Acknowledgments
-We would like to express our gratitude to the maintainer and data providers who made this  possible.
+I would like to express my gratitude to the maintainer and data providers who made this  possible.
