@@ -31,7 +31,7 @@ The model was trained on a diverse dataset containing recordings of infant cry s
 The ResNet50 model was trained using TensorFlow and Keras with an Adam optimizer. The training process involved data augmentation techniques to enhance model generalization. The training accuracy reached 90%, while the validation accuracy reached 88%.
 
 # Evaluation
-The model achieved an accuracy of 84.273% on the test dataset, highlighting its ability to accurately classify infant cry sounds. The model's precision, recall, and F1-score metrics are commendable.
+The model achieved an accuracy of 84.273% on the test dataset even though dataset is bit imbalanced, highlighting its ability to accurately classify infant cry sounds. The model's precision, recall, and F1-score metrics are commendable.
 
 # Usage
 To use the trained ResNet50 model for inference, you can load the model weights using the provided script:
